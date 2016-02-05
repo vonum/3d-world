@@ -1,0 +1,42 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2006 Google, Inc.
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.439216 0.333333
+Ks 0.330000 0.330000 0.330000
+map_Kd Hot_Air_Balloon/Wood_Cherry_Original.jpg
+
+newmtl Stone_Brushed_Khaki
+Ka 0.000000 0.000000 0.000000
+Kd 0.886275 0.741176 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd Hot_Air_Balloon/Stone_Brushed_Khaki.jpg
+
+newmtl Textile_Coffee
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.560784 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd Hot_Air_Balloon/Textile_Coffee.jpg
+
+newmtl Cobalt
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.662745 0.878431
+Ks 0.330000 0.330000 0.330000
+
+newmtl CoolGray8
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.313725 0.364706
+Ks 0.330000 0.330000 0.330000
+
+newmtl Pale_Yellow
+Ka 0.000000 0.000000 0.000000
+Kd 0.929412 0.913725 0.521569
+Ks 0.330000 0.330000 0.330000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.882353 0.870588
+Ks 0.330000 0.330000 0.330000
+
